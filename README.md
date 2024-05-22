@@ -3,9 +3,9 @@
 - 📚 Learning
 
 <h3 align="left">Support:</h3>
-<p><a href="#"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="DjingoDev" /></a>
+<p><a href="#"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="DjingoDev" /></a><br><br>
 </p>
-<br><br>
+
 ### Known and Learning :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
