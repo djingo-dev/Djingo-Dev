@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wajdii Djoo</h1>
+<h1 align="center">Hi 👋, I'm Wajdii Afroo</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,5 +39,5 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djingo-dev&show_icons=true&locale=en" alt="djingo-dev" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=djingo-dev&show_icons=true&locale=en](https://gitfut.com/djingo-dev?country=tn)" alt="djingo-dev" /></p>
 
